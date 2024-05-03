@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Calculator Extension",
+  "version": "1.0",
+  "description": "A simple calculator extension for Chrome.",
+  "permissions": ["activeTab"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
